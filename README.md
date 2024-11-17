@@ -1,6 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-Hello, I'm randomints. I can do web development but I'm no programmer. Github is where I keep my cloud storage.
+
+Hello, I'm randomints. I can do web development but I'm no programmer - github is my cloud storage!
 
 # Tools
 - kitty terminal
