@@ -1,17 +1,12 @@
 
 
-Hello, I'm randomints. I can do web development but I'm no programmer - github is my cloud storage!
+Hello, I'm randomints. I can make websites, just not that well
 
 # Tools
-- kitty terminal
+- alacritty terminal
 - neovim text editor
-- mechanical keyboard
-- pencil and paper
+- unnamed indian mechanical keyboard
 
 # Skills
-- calligraphy
-- programming?
-- typing
-- cubing
-
-I'm trying to get better at programming, but it'll take a while
+- web development
+- IoT
