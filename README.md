@@ -1,12 +1,13 @@
 
 
-Hello, I'm randomints. I can make websites, just not that well
+# Hello, I'm randomints.
 
-# Tools
+## Tools
 - alacritty terminal
 - neovim text editor
 - unnamed indian mechanical keyboard
 
-# Skills
+## Skills
 - web development
 - IoT
+- Breadboard computers
