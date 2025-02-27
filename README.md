@@ -11,3 +11,5 @@
 - web development
 - IoT
 - Breadboard computers
+
+Feel free to take all my code. It's just not that well documented
