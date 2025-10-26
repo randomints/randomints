@@ -1,2 +1,2 @@
 # Welcome to my github
-mostly arduino based things here, fun little projects
+arduino hobbyist. Small projects here
